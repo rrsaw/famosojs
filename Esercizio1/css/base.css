@@ -1,0 +1,21 @@
+p {
+	color: blue;
+	background-color: yellow;
+	text-align: right;
+
+}
+
+p::first-letter { 
+    font-size: 36px;
+    color: cyan;
+}
+
+#second {
+	color: red;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+span {
+	font-weight: bold;
+	text-decoration: underline;
+}

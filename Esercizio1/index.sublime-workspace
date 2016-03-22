@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"humand",
+				"humanDisplay"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"activeHuman",
+				"activeHumanId"
+			],
+			[
+				"active",
+				"activeHumanDisplay"
+			],
+			[
+				"human",
+				"humanList"
+			],
+			[
+				"new",
+				"newHuman"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"hi",
+				"humanDisplayHTML"
+			],
+			[
+				"hum",
+				"humanDisplay"
+			],
+			[
+				"hu",
+				"humanDisplay"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"tran",
+				"transition-duration"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"x",
+				"x"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 165.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ignore_vcs_packages",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/federico/Desktop/index.html",
+		"/Users/federico/Desktop/2016.03.08 - Lezione 11 copy/css/base.css",
+		"/Users/federico/Documents/Bacup/Grafica/655.html",
+		"/Users/federico/Desktop/Programmazione/2016.02.29 - Lezione 09/js/main.js",
+		"/Users/federico/Desktop/Programmazione/2016.02.29 - Lezione 09/css/base.css",
+		"/Users/federico/Desktop/Esercizi Fabrizio/esercizi somma media etc/Esercizi.js",
+		"/Users/federico/Desktop/infinite delves/sound/intro.mp3",
+		"/Users/federico/Desktop/infinite delves/main.lua",
+		"/Users/federico/Desktop/infinite delves/coalCounterScene.lua",
+		"/Users/federico/Desktop/infinite delves/Icon-Small@2x.png",
+		"/Users/federico/Desktop/Lezione 07/js/main.js",
+		"/Users/federico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/federico/Downloads/Alessandro Picci-esercizi-lezione-3/bonus commerciale/bonusCommerciale.html",
+		"/Users/federico/Downloads/Alessandro Picci-esercizi-lezione-3/bonus commerciale/main.js",
+		"/Users/federico/Downloads/Dungeon 5 2 2/bossScene.lua"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function addAppleBtn_clickHandler (event) {\n	counter++;\n	melinda = new Apple(\"Melinda_\" + counter);\n}",
+			"mario",
+			"createNewHumanBtn",
+			"			<button id=\"createNewHumanBtn\">conferma</button>\n",
+			">\n",
+			"			\n",
+			"bgMusic.mp3",
+			"intro.mp3",
+			"<script src=\"\" =\"js/jquery-2.2.0.min.js\"></script>\n",
+			"5",
+			"gauge"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"intro",
+				"sound/intro.mp3"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
